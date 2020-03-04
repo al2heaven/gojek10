@@ -2,9 +2,8 @@
 
 error_reporting(0);
 include ("func.php");
-
-echo "\e                     GOJEK VERSION 1.7.5            \n";
-echo "\e                SCRIPT GOJEK ALBAN RAHMAN AL\n";
+echo "\e                         GOJEK VERSION 1.7.5            \n";
+echo "\e                    SCRIPT GOJEK ALBAN RAHMAN AL\n";
 echo "\n";
 nope:
 echo "\e[?] Masukkan Nomor Hp Kamu (62) : ";
